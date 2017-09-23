@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VivzDrawer</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+    </string-array>
+</resources>

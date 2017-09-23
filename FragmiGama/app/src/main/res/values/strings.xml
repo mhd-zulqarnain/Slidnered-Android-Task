@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FragmentCom</string>
+    <string-array name="title">
+
+        <item>Creating the CrimeFragment class</item>
+        <item>Implementing fragment lifecycle methods</item>
+        <item>Wiring widgets in a fragment</item>
+        <item>Recent Changes to Collections</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>
+            Right-click the com.bignerdranch.android.criminalintent package and select New → Java Class.
+`           Name the class CrimeFragment and click OK to generate the class.
+        </item>
+        <item>CrimeFragment is a controller that interacts with model and view objects. Its job is to present the
+              details of a specific crime and update those details as the user changes them.
+        </item>
+        <item>The onCreateView(…) method is also the place to wire up the EditText to respond to user input. After
+             the view is inflated, get a reference to the EditText and add a listener.
+        </item>
+
+        <item>
+            Recently, the Collections Framework underwent a fundamental change that significantly
+            increased its power and streamlined its use. The changes were caused by the addition of
+            generics, autoboxing/unboxing, and the for-each style for loop, by JDK 5.
+        </item>
+    </string-array>
+
+</resources>

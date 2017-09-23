@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrimeReport</string>
+    <string name="crime_title_hint">Enter the crime title</string>
+</resources>

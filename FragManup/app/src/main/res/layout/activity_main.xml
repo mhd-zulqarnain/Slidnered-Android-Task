@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="zaadjava.com.fragmanup.MainActivity">
+
+    <Button
+        android:id="@+id/addA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="addA"
+        android:text="Add A" />
+
+    <Button
+        android:id="@+id/addB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/addA"
+        android:onClick="addB"
+        android:text="Add B" />
+
+    <Button
+        android:id="@+id/AreplaceB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/addB"
+        android:onClick="AreplaceB"
+        android:text="A replace B" />
+
+    <Button
+        android:id="@+id/removeA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addA"
+        android:onClick="removeA"
+        android:text="Remove A" />
+
+    <Button
+        android:id="@+id/removeB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addA"
+        android:layout_toRightOf="@+id/removeA"
+        android:onClick="removeB"
+        android:text="Remove B" />
+
+    <Button
+        android:id="@+id/BreplaceA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addA"
+        android:layout_toRightOf="@+id/removeB"
+        android:onClick="BreplaceA"
+        android:text="B replace A" />
+
+    <Button
+        android:id="@+id/attachA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/removeA"
+        android:onClick="attachA"
+        android:text="Attach A" />
+
+    <Button
+        android:id="@+id/attachB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/removeA"
+        android:layout_toRightOf="@id/attachA"
+        android:onClick="attachB"
+        android:text="Attach B" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/group"
+        android:layout_below="@+id/attachA"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        >
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Glamo</string>
+    <string-array name="flag_name">
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Bangladash</item>
+        <item>Srilanka</item>
+        <item>Iran</item>
+        <item>China</item>
+
+    </string-array>
+</resources>

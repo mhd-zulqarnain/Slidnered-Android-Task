@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CustomApter</string>
+    <string-array name="title">
+        <item>Meme 1</item>
+        <item>Meme 2</item>
+        <item>Meme 3</item>
+        <item>Meme 4</item>
+        <item>Meme 5</item>
+        <item>Meme 6</item>
+        <item>Meme 7</item>
+        <item>Meme 8</item>
+        <item>Meme 9</item>
+        <item>Meme 10</item>
+    </string-array>
+    <string-array name="description">
+        <item>Meme description 1</item>
+        <item>Meme description 2</item>
+        <item>Meme description 3</item>
+        <item>Meme description 4</item>
+        <item>Meme description 5</item>
+        <item>Meme description 6</item>
+        <item>Meme description 7</item>
+        <item>Meme description 8</item>
+        <item>Meme description 9</item>
+        <item>Meme description 10</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="111235386018290"
+    token="-8018003655361201621"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="734" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="254" />
+    <task
+        name="verifier"
+        duration="105" />
+
+    <artifact
+        location="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="373246021547654"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="D:\Work\java\android\Vivz\VivzSqliteTask1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

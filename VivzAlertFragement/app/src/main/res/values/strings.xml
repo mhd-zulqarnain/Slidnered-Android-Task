@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VivzAlertFragement</string>
+    <string name="close">close</string>
+    <string name="ok">ok</string>
+    <string-array name="days">
+        <item>sunday</item>
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>

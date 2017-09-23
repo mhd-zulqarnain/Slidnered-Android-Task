@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string-array name="days">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>thursdayday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aae6de634fc3e3120cf3ed17a26dc4b460510d23">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\instant-run_e48b43c30e21fe6aaba5e4b756ad15d543f4e964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_271165139bc2a7c14c9579c2fe78664cd60b7caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_83deecf76b2d231195ccfa299997b1890228fc8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c743c3953a51603bcd3235ddd2797daaa062b841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_239981b7768efa5ebefbfa54b9f3b4063616d9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a4fedf78178d20479c297db7c68fdf36ebbe3e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21fc2c70bfb268b59f53cb8ab3983572d70e813f">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8b655c82e416c6c9afec8b01de51993cebc435c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_09f953df5c5ba1e9fa28949e963245f07f643cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_1e96f4ee3a2b18f9118830a77a34d82dadc64ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_0c35aec4c78a5cf8af840c14414690d3672f1356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\OneDrive - Higher Education Commission\Work\java\android\Vivz\VivzSqliteTask1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_20521da15fddb6dfb4bed56fc52232cdbcb76052.jar" />
+    </item>
+
+</items>
